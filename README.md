@@ -30,8 +30,7 @@ It monitors household water consumption in real-time using IoT, provides insight
 - Guda Manikanta - Hardware Implementation, Data Collection
 - Kolla Revanth Kumar - Web Integration, Documentation
 
-## 📄 Documentation
-Project Report (PDF).pdf
+
 
 ## 📃 License
 This project is licensed under the MIT License.
