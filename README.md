@@ -33,4 +33,4 @@ It monitors household water consumption in real-time using IoT, provides insight
 
 
 ## 📃 License
-This project is licensed under the MIT License.
+This project is designed for academic study.
