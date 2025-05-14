@@ -31,7 +31,7 @@ It monitors household water consumption in real-time using IoT, provides insight
 - Kolla Revanth Kumar - Web Integration, Documentation
 
 ## 📄 Documentation
-- [Project Report (PDF)](docs/minor2.pdf)
+Project Report (PDF).pdf
 
 ## 📃 License
 This project is licensed under the MIT License.
